@@ -1,5 +1,5 @@
 # MatrixCalculator
-This console program calculates the determinant of a matrix of any size,
+This java console-based program calculates the determinant of a matrix of any size,
 converts any matrix to Row Echelon Form, and shows the steps.
 
 Driver.java 
